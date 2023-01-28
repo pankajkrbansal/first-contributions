@@ -11,6 +11,7 @@
 - [Arthur Sena](https://github.com/senaarth)
 - [Maximillian Campbell](https://github.com/msoup-hub)
 - Adam Elitzur
+- [Pankaj Kumar Bansal](https://github.com/pankajkrbansal)
 - [Christian Paolo Adriano](https://github.com/Aji7)
 - [Deepraj Rakshit](https://github.com/DeepNinja07x)
 - [Jimmy Loloy](https://github.com/JimmyLoloy98)
